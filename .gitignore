@@ -1,0 +1,26 @@
+# Private email archives
+*.pst
+*.ost
+*.eml
+*.msg
+
+# Email indexes and databases
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite3-*
+*.db-*
+
+# Extracted attachments
+attachments/
+exports/
+downloads/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local settings
+.env
